@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T16:44:05.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.10" etag="_e4BvkYtxOc7XoZBtAHU" type="github"><diagram id="Dtn2ozRDqQP7kY8G5X1N">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-09T16:52:00.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="CntAvUCMzO0UIfHdsREM" version="14.5.10" type="github">
+  <diagram id="Dtn2ozRDqQP7kY8G5X1N" name="Page-1">
+    <mxGraphModel dx="981" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-1" value="Main screen that is almost always there" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-2" value="this includes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="25" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-3" value="Side panel (logo and the main menu)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-4" value="settings and notifications button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-5" value="profile button (top right)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gp2IzZhmqlVVE6UkbUe9-1" target="gp2IzZhmqlVVE6UkbUe9-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="140" as="sourcePoint" />
+            <mxPoint x="580" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-7" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gp2IzZhmqlVVE6UkbUe9-2" target="gp2IzZhmqlVVE6UkbUe9-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="140" as="sourcePoint" />
+            <mxPoint x="580" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-8" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gp2IzZhmqlVVE6UkbUe9-2" target="gp2IzZhmqlVVE6UkbUe9-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="50" as="sourcePoint" />
+            <mxPoint x="650" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-9" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gp2IzZhmqlVVE6UkbUe9-2" target="gp2IzZhmqlVVE6UkbUe9-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="65" as="sourcePoint" />
+            <mxPoint x="660" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-10" value="notifications panel will not be full screen but will be a screen &#39;hanging down&#39; from the notifications icon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="200" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-11" value="settings menu will include dark mode,&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-12" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="gp2IzZhmqlVVE6UkbUe9-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="160" as="sourcePoint" />
+            <mxPoint x="660" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-13" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gp2IzZhmqlVVE6UkbUe9-4" target="gp2IzZhmqlVVE6UkbUe9-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="170" as="sourcePoint" />
+            <mxPoint x="755" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-15" value="Profile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-16" value="So there are couple of options here. There could be 3 options which the user can change. 1. there are no profiles at all (like current BMS). 2. there are ranked profiles and you can change who has access to what. 3. user profiles. Not sure how this would get setup though." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="55" width="200" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="gp2IzZhmqlVVE6UkbUe9-17" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gp2IzZhmqlVVE6UkbUe9-15" target="gp2IzZhmqlVVE6UkbUe9-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="65" as="sourcePoint" />
+            <mxPoint x="560" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
