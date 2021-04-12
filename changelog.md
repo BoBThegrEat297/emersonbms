@@ -4,7 +4,8 @@
 
 **Added:**
 
-- 
+- Better sync
+- Updated stats page
 
 ## Version 1.1 - 10/04/21
 
