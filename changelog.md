@@ -21,7 +21,7 @@
 - New way to debug errors
 - Better Stats
 
-## Version 0.91 - 05/03/21
+## Version 0.9.1 - 05/03/21
 
 **Fixed:**
 
