@@ -26,6 +26,7 @@
 **Fixed:**
 
 - Volume
+- Door picker number no longer goes past set number of doors
 
 ## Version 0.9 (Beta Release) - 04/03/21
 
